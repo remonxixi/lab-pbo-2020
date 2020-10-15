@@ -30,6 +30,7 @@ public class CariPanjangElemen {
         System.out.println(x[1][1][1].length);
 
     }
-
-    
 }
+/* akan menampilkan nilai dari panjang array
+
+*/
